@@ -1,10 +1,11 @@
 var apiKey = 'cadbaa98fd2da1ee1cf8a645a287147a'
-var query = `https://api.musixmatch.com/ws/1.1/`
+var query = `https://cors-anywhere.herokuapp.com/https://api.musixmatch.com/ws/1.1/`
 var genreArray = []
 var returnArray = []
 var page = 1
 window.returnIndex = 0
 var firstSuccess = true
+
 //search genres return 10 random songs or artists within the genre and display
 //search for a similar artist, return 10 random similar artists and display
 //each returned

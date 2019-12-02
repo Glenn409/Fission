@@ -1,0 +1,21 @@
+{
+  "name": "fission",
+  "version": "1.0.0",
+  "description": "The best of all projects.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glenn409/Fission.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glenn409/Fission/issues"
+  },
+  "homepage": "https://github.com/Glenn409/Fission#readme"
+}
